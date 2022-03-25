@@ -13,7 +13,7 @@
   "author": "Amlan Nandy",
   "license": "ISC",
   "dependencies": {
-    "electron": "^9.4.0",
+    "electron": "^13.6.6",
     "electron-log": "^4.2.2",
     "imagemin": "^7.0.1",
     "imagemin-mozjpeg": "^9.0.0",
